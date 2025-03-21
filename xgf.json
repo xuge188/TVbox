@@ -24,7 +24,7 @@
     },
     {
       "key": "csp_ReBo",
-      "name": "☀️热播",
+      "name": "☀️热播┃旭哥",
       "type": 3,
       "api": "csp_ReBo",
       "searchable": 1,
@@ -33,7 +33,7 @@
     },
     {
       "key": "csp_Czsapp",
-      "name": "🏭厂长",
+      "name": "🏭厂长┃旭哥",
       "type": 3,
       "api": "csp_Czsapp",
       "playerType": 2,
@@ -44,7 +44,7 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "🍎苹果",
+      "name": "🍎苹果┃旭哥",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -53,7 +53,7 @@
     },
     {
       "key": "csp_Kanke",
-      "name": "🛳️看客",
+      "name": "🛳️看客┃旭哥",
       "type": 3,
       "api": "csp_Kanke",
       "searchable": 1,
@@ -63,7 +63,7 @@
     },
     {
       "key": "csp_Wwys",
-      "name": "👩‍🌾农民",
+      "name": "👩‍🌾农民┃旭哥",
       "type": 3,
       "api": "csp_Wwys",
       "searchable": 1,
@@ -73,7 +73,7 @@
     },
     {
       "key": "csp_Lkdy",
-      "name": "🏔️来看",
+      "name": "🏔️来看┃旭哥",
       "type": 3,
       "api": "csp_Lkdy",
       "searchable": 1,
@@ -82,7 +82,7 @@
     },
     {
       "key": "csp_Tvyb",
-      "name": "☁️TVB云播",
+      "name": "☁️TVB云播┃旭哥",
       "type": 3,
       "api": "csp_Tvyb",
       "playerType": 2,
@@ -93,7 +93,7 @@
     },
     {
       "key": "csp_Qiyou",
-      "name": "🦌奇优",
+      "name": "🦌奇优┃旭哥",
       "type": 3,
       "api": "csp_Qiyou",
       "searchable": 1,
@@ -102,7 +102,7 @@
     },
    {
       "key": "csp_Jiaozi",
-      "name": "🥣饺子",
+      "name": "🥣饺子┃旭哥",
       "type": 3,
       "api": "csp_Jiaozi",
       "searchable": 1,
@@ -111,7 +111,7 @@
     },
     {
       "key": "csp_Kuaikan",
-      "name": "👀快看",
+      "name": "👀快看┃旭哥",
       "type": 3,
       "api": "csp_Kuaikan",
       "searchable": 1,
@@ -120,7 +120,7 @@
     },
     {
       "key": "csp_Jianpian",
-      "name": "🧲荐片",
+      "name": "🧲荐片┃旭哥",
       "type": 3,
       "api": "csp_Jianpian",
       "searchable": 1,
@@ -130,7 +130,7 @@
     },
     {
       "key": "csp_SP360",
-      "name": "💘360",
+      "name": "💘360┃旭哥",
       "type": 3,
       "api": "csp_SP360",
       "searchable": 1,
@@ -140,7 +140,7 @@
     },
     {
       "key": "玩偶gg",
-      "name": "👽玩偶",
+      "name": "👽玩偶┃旭哥",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -153,7 +153,7 @@
     },
     {
       "key": "片库",
-      "name": "🅿片库",
+      "name": "🅿片库┃旭哥",
       "type": 3,
       "api": "csp_Qiwei",
       "searchable": 1,
@@ -166,7 +166,7 @@
     },
     {
       "key": "至臻",
-      "name": "💯至臻",
+      "name": "💯至臻┃旭哥",
       "type": 3,
       "api": "csp_kongbai",
       "searchable": 1,
@@ -179,7 +179,7 @@
     },
   {
       "key": "高中",
-      "name": "旭哥影院",
+      "name": "旭哥┃影院",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,
